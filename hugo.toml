@@ -1,0 +1,21 @@
+baseURL = 'https://Gabriel-qwd.github.io/holamundo/'
+languageCode = 'es'
+title = 'Mi sitio con Hugo'
+theme = 'PaperMod'
+publishDir = 'docs'
+[params]
+  # Información general
+  title = "Mi sitio Hugo"
+  subtitle = "Mi primer sitio web con Hugo ✨"
+  author = "Gabriel"
+  description = "Un sitio estático hecho con amor y café ☕"
+
+  # Estilo y formato
+  date_format = "02 Jan 2006"
+  logo = "images/logo.png"  # Cambia esto si tienes un logo
+  favicon = "images/favicon.ico"
+
+  # Redes sociales
+  github = "https://github.com/tuusuario"
+  twitter = "https://twitter.com/tuusuario"
+  linkedin = "https://linkedin.com/in/tuusuario"
