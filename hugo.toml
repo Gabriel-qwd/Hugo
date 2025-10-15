@@ -1,7 +1,7 @@
 baseURL = "https://Gabriel-qwd.github.io/Hugo/"
 languageCode = 'es'
 title = 'Mi sitio con Hugo'
-theme = 'PaperMod'
+theme = 'ananke'
 publishDir = 'docs'
 [params]
   # Información general

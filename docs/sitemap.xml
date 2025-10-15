@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Gabriel-qwd.github.io/Hugo/</loc>
+    <loc>http://localhost:1313/Hugo/</loc>
     <lastmod>2025-10-15T15:01:06+02:00</lastmod>
   </url><url>
-    <loc>https://Gabriel-qwd.github.io/Hugo/posts/bienvenida/</loc>
+    <loc>http://localhost:1313/Hugo/posts/bienvenida/</loc>
     <lastmod>2025-10-15T15:01:06+02:00</lastmod>
   </url><url>
-    <loc>https://Gabriel-qwd.github.io/Hugo/posts/</loc>
+    <loc>http://localhost:1313/Hugo/posts/</loc>
     <lastmod>2025-10-15T15:01:06+02:00</lastmod>
   </url><url>
-    <loc>https://Gabriel-qwd.github.io/Hugo/categories/</loc>
+    <loc>http://localhost:1313/Hugo/categories/</loc>
   </url><url>
-    <loc>https://Gabriel-qwd.github.io/Hugo/tags/</loc>
+    <loc>http://localhost:1313/Hugo/tags/</loc>
   </url>
 </urlset>
