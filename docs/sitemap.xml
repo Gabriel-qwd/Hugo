@@ -2,17 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Hugo/</loc>
+    <loc>https://Gabriel-qwd.github.io/Hugo/</loc>
     <lastmod>2025-10-15T15:01:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Hugo/posts/bienvenida/</loc>
+    <loc>https://Gabriel-qwd.github.io/Hugo/posts/bienvenida/</loc>
     <lastmod>2025-10-15T15:01:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Hugo/posts/</loc>
+    <loc>https://Gabriel-qwd.github.io/Hugo/posts/</loc>
     <lastmod>2025-10-15T15:01:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Hugo/categories/</loc>
+    <loc>https://Gabriel-qwd.github.io/Hugo/categories/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Hugo/tags/</loc>
+    <loc>https://Gabriel-qwd.github.io/Hugo/tags/ciencia-ficci%C3%B3n/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/tags/comedia/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/tags/drama/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/tags/emociones/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/tags/humor/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/tags/recomendaciones/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/categories/series/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/series/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/tags/series/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/tags/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/tags/top/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/series/top-sci-fi/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/series/top-comedy/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Gabriel-qwd.github.io/Hugo/series/top-drama/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url>
 </urlset>

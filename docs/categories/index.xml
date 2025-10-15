@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mi sitio con Hugo</title>
-    <link>http://localhost:1313/Hugo/categories/</link>
+    <link>https://Gabriel-qwd.github.io/Hugo/categories/</link>
     <description>Recent content in Categories on Mi sitio con Hugo</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="http://localhost:1313/Hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Gabriel-qwd.github.io/Hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Series</title>
+      <link>https://Gabriel-qwd.github.io/Hugo/categories/series/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://Gabriel-qwd.github.io/Hugo/categories/series/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

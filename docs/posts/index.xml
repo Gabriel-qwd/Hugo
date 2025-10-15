@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mi sitio con Hugo</title>
-    <link>http://localhost:1313/Hugo/posts/</link>
+    <link>https://Gabriel-qwd.github.io/Hugo/posts/</link>
     <description>Recent content in Posts on Mi sitio con Hugo</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Wed, 15 Oct 2025 15:01:06 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/Hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Gabriel-qwd.github.io/Hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenida</title>
-      <link>http://localhost:1313/Hugo/posts/bienvenida/</link>
+      <link>https://Gabriel-qwd.github.io/Hugo/posts/bienvenida/</link>
       <pubDate>Wed, 15 Oct 2025 15:01:06 +0200</pubDate>
-      <guid>http://localhost:1313/Hugo/posts/bienvenida/</guid>
+      <guid>https://Gabriel-qwd.github.io/Hugo/posts/bienvenida/</guid>
       <description>&lt;p&gt;¡Hola! Esta es mi primera entrada en &lt;strong&gt;Hugo&lt;/strong&gt;. Generada desde &lt;em&gt;Markdown&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
